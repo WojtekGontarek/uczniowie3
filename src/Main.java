@@ -13,6 +13,7 @@ public class Main {
         komputery.add(new KomputerMac("asdafdsfds","asdfasdfsdf","dfdfd"));
         komputery.add(new KomputerMac("asdfasdf","asdfasdf","asdfasdf"));
         Collections.sort(komputery);
+        System.out.println(komputery);
     }
 
 
